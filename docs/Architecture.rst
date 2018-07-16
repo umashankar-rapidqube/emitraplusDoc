@@ -22,11 +22,14 @@ Kiosk Application
     - JDK 1.8
     - Spring MVC
 
-Environment Information:
-------------------------
+Environment Information
+-----------------------
 
-Staging Information
--------------------
+1. Staging Information
+----------------------
     API server - <IP address> : <port>
     Database - <IP address> : <port>
+
+2. Production Information
+-------------------------
 
