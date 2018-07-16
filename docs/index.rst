@@ -13,9 +13,10 @@ Architecture
    :maxdepth: 1
    :caption: Table of Contents
    
-   Architecture
-   Services   
+   Architecture      
    Hardwares
+   services
+   Paymnent
     
 License
 -------
