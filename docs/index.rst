@@ -15,8 +15,8 @@ Architecture
    
    Architecture      
    Hardwares
-   services
-   Paymnent
+   Services
+   Payment
     
 License
 -------
