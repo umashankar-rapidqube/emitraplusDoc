@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'StreamLine'
+project = u'Emitra+'
 copyright = u'2018, Umashankar'
 author = u'Umashankar'
 

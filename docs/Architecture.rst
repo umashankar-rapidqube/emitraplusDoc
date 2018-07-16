@@ -21,3 +21,12 @@ Kiosk Application
     Technology Stack:
     - JDK 1.8
     - Spring MVC
+
+Environment Information:
+------------------------
+
+Staging Information
+-------------------
+    API server - <IP address> : <port>
+    Database - <IP address> : <port>
+
